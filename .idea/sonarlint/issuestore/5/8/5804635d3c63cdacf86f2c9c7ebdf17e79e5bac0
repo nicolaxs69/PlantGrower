@@ -1,0 +1,6 @@
+
+Lsquid:S1068%".Remove this unused "miniResult" private field.(ÆŠ„‹8Ç–ˆÁ©-
+hsquid:HiddenFieldCheck…">Rename "miniResult" which hides the field declared at line 37.(öø¥€8Ç–ˆÁ©-
+Fsquid:S1604j"(Make this anonymous inner class a lambda(ÿ¦É›8Ç–ˆÁ©-
+Gsquid:S1604¡"(Make this anonymous inner class a lambda(ªµöÏ8Ç–ˆÁ©-
+\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8Ç–ˆÁ©-
