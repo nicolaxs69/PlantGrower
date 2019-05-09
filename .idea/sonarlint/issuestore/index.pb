@@ -19,8 +19,6 @@ c
 3app/src/main/res/drawable-v21/ic_menu_slideshow.xml,b/d/bda5d67b231811c63e8b5e9e2b5d1086914de44f
 h
 8app/src/main/res/drawable-v24/ic_launcher_foreground.xml,0/7/078508c831007ccb3938b355f0d30a8368f99a8d
-Y
-)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
 X
 (app/src/main/res/layout/app_bar_main.xml,6/f/6f97cd8a191d695dc0396291b7e88ceff15e43bb
 X

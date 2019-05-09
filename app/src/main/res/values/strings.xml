@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CrossfadeDrawerLayout</string>
+    <string name="app_name">Plat Grower</string>
 
     <!-- Sample menu -->
     <string name="action_toggle">Toggle Side Panel</string>

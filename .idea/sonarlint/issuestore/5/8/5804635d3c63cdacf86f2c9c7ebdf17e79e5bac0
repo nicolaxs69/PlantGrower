@@ -1,6 +1,9 @@
 
-Lsquid:S1068%".Remove this unused "miniResult" private field.(ÆŠ„‹8Ç–ˆÁ©-
-hsquid:HiddenFieldCheck…">Rename "miniResult" which hides the field declared at line 37.(öø¥€8Ç–ˆÁ©-
-Fsquid:S1604j"(Make this anonymous inner class a lambda(ÿ¦É›8Ç–ˆÁ©-
-Gsquid:S1604¡"(Make this anonymous inner class a lambda(ªµöÏ8Ç–ˆÁ©-
-\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8Ç–ˆÁ©-
+Lsquid:S1068+".Remove this unused "miniResult" private field.(ÆŠ„‹8Ç–ˆÁ©-
+Fsquid:S1604u"(Make this anonymous inner class a lambda(ÿ¦É›8¬Äì©-
+Gsquid:S1604¬"(Make this anonymous inner class a lambda(ªµöÏ8¬Äì©-
+\squid:UselessImportCheck",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8î¼Ëì©-
+hsquid:HiddenFieldCheck">Rename "miniResult" which hides the field declared at line 43.(öø¥€8¬Äì©-
+^squid:S1068/";Remove this unused "circularFillableLoaders" private field.(‹ˆ÷¥øÿÿÿÿ8Ùæªí©-
+|squid:UselessImportCheck$"QRemove this unused import 'com.mikhaellopez.circularimageview.CircularImageView'.(…¢†“8Ùæªí©-
+csquid:UselessImportCheck"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8Ùæªí©-

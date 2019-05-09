@@ -74,7 +74,11 @@ public class MainActivity extends AppCompatActivity {
 
         setCrossfadeDrawerLayout();
 
+        circularFillableLoaders = findViewById(R.id.circularFillableLoaders);
 
+        circularFillableLoaders.setProgress(80);
+        circularFillableLoaders.setBorderWidth(5 * getResources().getDisplayMetrics().density);
+        circularFillableLoaders.setAmplitudeRatio((float) 10 / 1000);
 
     }
 
